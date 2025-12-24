@@ -1,7 +1,6 @@
 # ETB_DBMS-OYO-Hotels-341012_341023_341052-Group-16
 Relational database design for an OYO hotel booking system using MySQL
-
-![oyo_project](oyo_database)
+ ![oyo_project](ER diagram.png)
 
 ## Overview
 1. This project is a MySQL-based relational database established that models a simplified version of an online hotel booking company, specifically OYO. 
