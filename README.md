@@ -56,3 +56,8 @@ An ER diagram is a graphical depiction of the:
 ## Conclusion
 This project demonstrates a strong understanding of relational database concepts and SQL querying.
 It effectively models a real-world hotel booking system using structured tables and well-defined relationships.
+
+By:
+Shruti Choudhary
+Dikshant
+Isha Wali
